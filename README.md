@@ -21,12 +21,12 @@ I move between **research and production**: reading a paper on Monday, reimpleme
 
 <div align="center">
 
-<!-- Bubble-Bobble style contribution graph — bubbles pop into place like a
-     bubble-shooter board, regenerated daily by a GitHub Action. -->
+<!-- Bomberman-style contribution graph — bombers blast contribution cells
+     across the grid, regenerated daily by a GitHub Action. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/themaker00001/themaker00001/output/bubble-contrib-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/themaker00001/themaker00001/output/bubble-contrib-light.svg">
-  <img alt="Bubble-bobble style contribution graph" src="https://raw.githubusercontent.com/themaker00001/themaker00001/output/bubble-contrib-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/themaker00001/themaker00001/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/themaker00001/themaker00001/output/bomberman-contribution-graph.svg">
+  <img alt="Bomberman style contribution graph" src="https://raw.githubusercontent.com/themaker00001/themaker00001/output/bomberman-contribution-graph.svg">
 </picture>
 
 </div>
@@ -98,5 +98,5 @@ I move between **research and production**: reading a paper on Monday, reimpleme
 </p>
 
 <div align="center">
-<sub>The graph above pops bubbles into place instead of painting squares — code's in <a href="scripts/generate-bubbles.mjs">scripts/generate-bubbles.mjs</a>, refreshed daily by <a href=".github/workflows/bubbles.yml">a GitHub Action</a>.</sub>
+<sub>The graph above blasts contribution cells instead of painting squares — powered by <a href="https://github.com/abozanona/pacman-contribution-graph">pacman-contribution-graph</a>, refreshed daily by <a href=".github/workflows/bomberman.yml">a GitHub Action</a>.</sub>
 </div>
