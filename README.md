@@ -81,9 +81,11 @@ I move between **research and production**: reading a paper on Monday, reimpleme
 
 ## 📊 Stats
 
+<!-- Self-hosted via lowlighter/metrics (see .github/workflows/metrics.yml) —
+     rendered by our own Action instead of a shared third-party server, so it
+     doesn't go down when someone else's free instance gets rate-limited. -->
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=themaker00001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themaker00001&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="/github-metrics.svg" alt="GitHub metrics" width="100%" />
 </div>
 
 <div align="center">
