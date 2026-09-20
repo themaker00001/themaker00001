@@ -1,0 +1,9 @@
+{
+  "name": "themaker00001-profile",
+  "private": true,
+  "type": "module",
+  "description": "Generates the bubble-bobble style animated contribution graph used in the profile README.",
+  "scripts": {
+    "generate": "node scripts/generate-bubbles.mjs"
+  }
+}
